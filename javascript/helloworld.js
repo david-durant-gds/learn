@@ -5,7 +5,7 @@ Multi
 line
 comments?
 I forget how.
-*/
+
 console.log("Y'know, stuff");
 
 lemony=2
@@ -19,4 +19,17 @@ if (lemony > great) {
   console.log("hes one man one god one vision")
 } else {
   console.log("17.5 min of adverts")
+}
+*/
+n = 0;
+x = 0;
+
+while (n < 3) {
+  n++;
+  x += n;
+  console.log("test")
+}
+i = 0
+for (i = 0; i < 3; i++) {
+    console.log("post")
 }
